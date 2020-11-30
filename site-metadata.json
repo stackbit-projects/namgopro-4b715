@@ -65,7 +65,8 @@
                         "url": "/showcase",
                         "style": "link"
                     }
-                ]
+                ],
+                "new_window": true
             },
             {
                 "label": "Style Guide",
