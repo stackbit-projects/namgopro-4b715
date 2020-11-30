@@ -29,7 +29,6 @@
     },
     "header": {
         "title": "Libris",
-        "logo_img": "images/logo.svg",
         "has_nav": true,
         "nav_links": [
             {
